@@ -1,0 +1,6 @@
+The files needed to do this would be
+_____________________begin stata.toc_______________
+v 3
+d Chris Farrar, Uni University
+p xyz interval-truncated survival
+_____________________end stata.toc_________________
