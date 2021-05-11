@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jennifer L. Steele"
-  avatar           : "/images/steele_pic.jpg"
+  avatar           : "/images/site-logo.png"
   bio              : "Using econometric methods, I study education policies that support equity and inclusion at the P-12 and postsecondary levels."
   location         : "Washington, DC"
   employer         : "American University"
@@ -310,5 +310,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-minimal
