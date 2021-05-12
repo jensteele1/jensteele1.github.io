@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Research
+Research Highlights
 ======
 My work focuses on improving the equity of educational and career opportunities through evidence-based approaches. Methodologically, my work has focused on using econometric methods that yield causal estimates of what works in education. 
 One current project focuses on the role that information disparities play in the transition from secondary to postsecondary education and the workforce.
@@ -51,4 +51,4 @@ Education History
 
 Site Design
 ------
-This site is based on the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This site is based on the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted free on [GitHub pages](https://pages.github.com). 
