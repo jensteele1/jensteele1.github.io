@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jennifer L. Steele / Policy Researcher in Education"
+title                    : "Jennifer L. Steele / Associate Professor
 title_separator          : "-"
 name                     : &name "Jennifer L. Steele"
 description              : &description "Associate Professor at American University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jennifer L. Steele"
   avatar           : "steele_pic.jpg" 
-  bio              : "Using econometric methods, I study education policies that support equity and inclusion at the P-12 and postsecondary levels."
+  bio              : "Using econometric methods, I study policies that support educational equity in P-16 education and the labor market."
   location         : "Washington, DC"
   employer         : "American University"
   pubmed       	   : 
