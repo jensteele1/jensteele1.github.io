@@ -31,8 +31,13 @@ improvement but also wished for more guidance in culturally relevant and operati
 Recommendations include the need for cities to anticipate human capital needs at program inception 
 and to formalize the mentoring role of existing school principals.
 
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
