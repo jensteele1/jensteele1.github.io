@@ -10,7 +10,7 @@ redirect_from:
 
 Research Highlights
 ======
-My work focuses on improving the equity of educational and career opportunities through evidence-based approaches. Methodologically, my work has focused on using econometric methods that yield causal estimates of what works in education. 
+My work focuses on improving the equity of educational and career opportunities through evidence-based approaches. Methodologically, I use econometric methods to obtain causal estimates of what works in education. 
 One current project focuses on the role that information disparities play in the transition from secondary to postsecondary education and the workforce.
 This project includes leveraging natural experments to obtain plausibly causal estimates of the following:
 * effects of enrollment in a STEM-intensive college or university on STEM course exposure and majors
