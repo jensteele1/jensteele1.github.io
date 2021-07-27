@@ -8,7 +8,7 @@ author_profile: true
 ## Requesting Letters of Recommendation
 
 **Current and former students:** If you would like me to write you a ***letter of recommendation*** for graduate school applications, fellowship/scholarship applications, or job applications, 
-please ***email the following information to [steele@american.edu](mailto:steele@american.edu)***:
+please **email the following information to [steele@american.edu](mailto:steele@american.edu)**:
 
 1. Graduate degree programs, fellowships, or jobs to which you are applying.
    (If graduate programs, include the universities and the degree programs. If jobs, include the organization and job title if known.)
@@ -20,20 +20,21 @@ please ***email the following information to [steele@american.edu](mailto:steele
 6. Anything else you'd like me to know about your application goals.
 
 If you would like to list me as a ***professional reference*** on job applications, here is my ***contact information*** to include in your applications:
-Prof. Jennifer L. Steele
-American University
-School of Education
-4400 Massachusetts Ave., NW (SVB 473)
-Washington, DC 20016-8030
-(202) 885-3762
-steele@american.edu
+Prof. Jennifer L. Steele  
+American University  
+School of Education  
+4400 Massachusetts Ave., NW (SVB 473)  
+Washington, DC 20016-8030  
+(202) 885-3762  
+steele@american.edu  
 
 ## Resume and Cover Letter Advice and Examples
 
 As you complete your coursework in fields related to education policy, leadership, and training (international or domestic), 
 you may be looking for new career opportunities that will let you make a broader difference in education equity and opportunity. 
-You'll want to make sure that your skills and commitment shine through in your communication with potential employers. 
-To that end, I've drafted a few general tips for resumes and cover letters, alongside some downloadable templates that you can use as guides. 
+You'll want to make sure that your skills and commitment shine through in your communication with potential employers.
+ 
+To that end, **I've drafted a few general tips for resumes and cover letters, alongside some downloadable templates that you can use as guides.** 
 The templates, created in 2021, are intended for folks applying to jobs in fields related to education, though they could be applied to
 numerous other fields as well. *They are most applicable to early-to-mid-career individuals with bachelor's, master's, 
 or education specialist degrees,* and *possibly* to those with practice-focused doctoral degrees. They are *not* appropriate for Ph.D.-level 
@@ -45,7 +46,7 @@ Having said that, the advice and templates I offer here are general and may not 
 (For instance, fancy resume formatting, which I recommend against, may be more appropriate in graphic design or publishing fields.) You may wish to have a
 colleague in your field or someone in your university's career center review your documents and offer feedback as well. 
 
-Also, ALWAYS proofread your cover letter and resume before you send them out. (Reading the cover letter aloud can help with wordiness or awkward phrasing.) 
+Also, *ALWAYS proofread your cover letter and resume before you send them out.* (Reading the cover letter aloud can help with wordiness or awkward phrasing.) 
 Small typos are part of being human and won't kill your chances, but if you can minimize them, all the better!
 
 ### Resume Tips and Templates
@@ -55,11 +56,15 @@ Small typos are part of being human and won't kill your chances, but if you can 
 [Resume template Word (download)](/files/Steele_Resume_Template_MEd_MA_Education.docx)
 
 For early-to-mid-career education jobs outside of academia, *resumes should typically be 1-2 pages* (depending on your level of experience), and *cover letters 
-should ideally be 1 page*. If you are using Google Docs or Word, stick to *standard, easy-to-read fonts, 11-12 points in size, 
-with 1-inch margins.* (Tiny fonts are hard to read for people over 40, so don't let your documents inadvertently remind readers of their age! The template uses 
-Times New Roman, 12-point.) Stick to *clean, simple, one-column layouts* because these are reader-friendly and easy for you to update. Simple layouts can also be easily 
-cut and pasted into electronic forms or scanned by e-reading software. Finally, stick to *black-and-white formatting* because it's easy to read, 
-easy to update, and prints nicely on black-and-white printers.
+should ideally be 1 page*. 
+
+If you are using Google Docs or Word, stick to *standard, easy-to-read fonts, 11-12 points in size, with 1-inch margins.* (Tiny fonts are hard to read for people over 40, so don't let your documents inadvertently remind readers of their age! The template uses 
+Times New Roman, 12-point.)
+
+Stick to *clean, simple, one-column layouts* because these are reader-friendly and easy for you to update. Simple layouts can also be easily 
+cut and pasted into electronic forms or scanned by e-reading software. 
+
+Finally, stick to *black-and-white formatting* because it's easy to read, easy to update, and prints nicely on black-and-white printers.
 
 *Avoid fancy or non-standard fonts and complex formatting*, like column breaks and tables. Keep italics to a minimum because they can look cluttered.
 Most of all, *avoid built-in resume templates in Microsoft Word and other software packages.* Yes, they look cool at first glance and are fun to play with, 
