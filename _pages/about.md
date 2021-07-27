@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Research Highlights
-======
+## Research Highlights
+
 My work focuses on improving the equity of educational and career opportunities through evidence-based approaches. Methodologically, I use econometric methods to obtain causal estimates of what works in education. 
 One current project focuses on the role that information disparities play in the transition from secondary to postsecondary education and the workforce.
 This project includes leveraging natural experments to obtain plausibly causal estimates of the following:
@@ -26,12 +26,13 @@ Some of my other research projects have:
 * examined the distribution and turnover of teachers deemed highly effective based on students' academic achievement growth
 * examined the responsiveness of academically skilled novice teachers to financial incentives for working in lower-performing schools
 
-Teaching and Public Outreach
-======
-As an instructor of research methods and statistics in the Education Policy and Leadership M.Ed. Program at American University in Washington, DC, I am also interested in improving public understanding of the scientific method and the logic of research methods that support causal inference.
+## Teaching and Public Outreach
 
-Professional History
-======
+As an instructor of research methods and statistics in the Education Policy and Leadership M.Ed. Program at American University in Washington, DC, 
+I am also interested in improving public understanding of the scientific method and the logic of research methods that support causal inference.
+
+## Professional History
+
 My research and teaching are informed my background as a K-12 and community college educator. I started my career as an elementary school teacher at
 a small Northern Virginia private school and as a literature and writing instructor at Prince George's County Community College in Maryland. 
 I subsequently managed teacher recruitment and training in the test preparation industry, an experience that sparked my interest in students' 
@@ -41,14 +42,14 @@ researcher at the RAND Corporation in Arlington, VA, for six years before joinin
 an Associate Professor in the School of Education at American University, as well as an Affilitate Faculty Member in the Department of Public Administration
 and Policy in the School of Public Affairs.
 
-Education History
-======
+## Education History
+
 * Doctor of Education (Ed.D.) in Administration, Planning and Social Policy, Harvard University, Cambridge, MA
 * Master of Arts in Education, Stanford University, Palo Alto, CA
 * Master of Arts in English, Geoorgetown University (Concentration in the Teaching of Writing), Washington, DC
 * Bachelor of Arts in Psychology and Honors English, Georgetown University, Washington, DC
 * Junior Year Abroad with studies in Psychology and English, University of Sussex, Brighton, UK
 
-Site Design
-------
+## Site Design
+
 This site is based on the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted free on [GitHub pages](https://pages.github.com). 
