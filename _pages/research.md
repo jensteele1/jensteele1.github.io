@@ -11,5 +11,5 @@ author_profile: true
 {% assign ordered_pages = site.research | sort: "order_number" %}
 
 {% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
+  {% include archive-single.html %}
 {% endfor %}
