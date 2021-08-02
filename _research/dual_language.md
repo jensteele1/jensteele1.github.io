@@ -1,5 +1,6 @@
 ---
 title: "Causal Effects of Dual-Language Immersion on Student Achievement"
+permalink: /research/dual_language
 layout: single-portfolio
 collection: research
 order_number: 20

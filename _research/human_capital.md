@@ -1,5 +1,6 @@
 ---
 title: "Equitable Access to High-Quality Teachers and School Leaders"
+permalink: /research/human_capital
 layout: single-portfolio
 collection: research
 order_number: 30
