@@ -12,7 +12,7 @@ Leveraging randomized and quasi-experimental designs, this set of work examines 
 **Funder:** Institute of Education Sciences, State & Local Education Programs & Policies Grant #R305E120003
 **Years:** 2012-2016
 
-Steele, J. L., Slater, R. O., Zamarro, G., Miller, T., Li, J., Burkhauser, S., & Bacon, M. (2017). The effects of dual-language immersion programs on student achievement: Evidence from lottery data. *American Educational Research Journal, 54*(1S), 282S-306S.Anderson, K., Zamarro, G., Steele, J. L., Miller, T. (In Press.) Comparing performance of methods to deal with differential attrition in lottery-based evaluations. Evaluation Review.
+Steele, J. L., Slater, R. O., Zamarro, G., Miller, T., Li, J., Burkhauser, S., & Bacon, M. (2017). The effects of dual-language immersion programs on student achievement: Evidence from lottery data. *American Educational Research Journal, 54*(1S), 282S-306S.
 
 Using data from seven cohorts of language immersion lottery applicants in a large, urban school district, we estimate the causal effects of immersion programs on students’ test scores in reading, mathematics, and science and on English learners’ (EL) reclassification. We estimate positive intent-to-treat (ITT) effects on reading performance in fifth and eighth grades, ranging from 13% to 22% of a standard deviation, reflecting 7 to 9 months of learning. We find little benefit in terms of mathematics and science performance but also no detriment. By sixth and seventh grade, lottery winners’ probabilities of remaining classified as EL are 3 to 4 percentage points lower than those of their counterparts. This effect is stronger for ELs whose native language matches the partner language.
   
