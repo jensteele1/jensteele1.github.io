@@ -5,7 +5,7 @@ permalink: /advising/
 author_profile: true
 ---
 
-![Passion Led Us Here](/images/ian-schneider-TamMbr4okv4-unsplash.jpg){:height="400px" width="700px"}
+![Passion Led Us Here](/images/ian-schneider-TamMbr4okv4-unsplash.jpg){:height="50%" width="50%"}
 <sub><sup>Photo credit [Ian Schneider on Unsplash](https://unsplash.com/photos/TamMbr4okv4?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)</sup></sub> 
 
 ## Requesting Letters of Recommendation
