@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-![Prof. Steele Teaching AU EPL Students 2016](/images/Steele_AU_2016.jpg){:height="60%" width="60%"}  
+![Prof. Steele Teaching AU EPL Students 2016](/images/Steele_AU_2016.jpg){:height="70%" width="70%"}  
 <sub><sup>Photo credit [Jeff Watts @ American University](https://www.linkedin.com/in/jeff-watts-11823630/)</sup></sub> 
 
 ## Office Hours Sign-Up  
