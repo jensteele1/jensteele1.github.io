@@ -3,6 +3,8 @@ layout: archive
 title: "Career Advising"
 permalink: /advising/
 author_profile: true
+header:
+  og_image: "/images/ian-schneider-TamMbr4okv4-unsplash.jpg"
 ---
 
 ## Requesting Letters of Recommendation
