@@ -165,8 +165,8 @@ body:hover .visually-hidden button {
 }
 
 /*
-   Icons
-   ========================================================================== */
+   Icons (icon names from _includes/author-profile.html; colors set in _sass/_variables)
+   ================================================================================== */
 
 .icon {
   display: inline-block;
@@ -239,6 +239,10 @@ body:hover .visually-hidden button {
     color: $pinterest-color;
   }
 
+  .fa-researchgate {
+    color: $researchgate-color;
+  }
+
   .fa-rss,
   .fa-rss-square {
     color: $rss-color;
@@ -283,36 +287,33 @@ body:hover .visually-hidden button {
     color: $xing-color;
   }
 
-  .fa-email {
+  .fa-envelope {
     color: $email-color;
   }
 
-  .fa-employer {
+  .fa-map-marker-alt {
     color: $employer-color;
   }
 
-  .fa-google-scholar {
-    color: $google-scholar-color;
-  }
-
-  .fa-impact-story {
-    color: $impact-story-color;
-  }
-
-  .fa-location {
+  .fa-map-marker-alt {
     color: $location-color;
   }
 
-  .fa-orcid {
+  .fa-link {
+    color: $uri-color;
+  }
+
+  .ai-orcid,
+  .ai-orcid-square {
     color: $orcid-color;
   }
 
-  .fa-researchgate {
-    color: $researchgate-color;
+  .fa-graduation-cap {
+    color: $googlescholar-color;
   }
 
-  .fa-uri {
-    color: $uri-color;
+  .ai-impactstory {
+    color: $impactstory-color;
   }
 
 }
