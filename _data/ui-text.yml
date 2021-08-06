@@ -72,7 +72,7 @@ es: &DEFAULT_ES
   follow_label               : "Seguir:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
-  website_label              : "Sitio web de AU"
+  website_label              : "Perfil académico de AU"
   email_label                : "Email"
   recent_posts               : "Entradas recientes"
   undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
