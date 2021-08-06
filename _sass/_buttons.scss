@@ -122,18 +122,17 @@
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color),
-  (orcid, $orcid-color),
-  (youtube, $youtube-color),
-  (googlescholar, $googlescholar-color),
   (email, $email-color),
-  (researchgate, $researchgate-color),
-  (github, $github-color),
-  (impactstory, $impactstory-color),
-  (rss, $rss-color),
   (employer, $employer-color),
+  (github, $github-color),
+  (googlescholar, $googlescholar-color),
+  (impactstory, $impactstory-color),
   (location, $location-color),
-  (uri, $uri-color);
-  
+  (orcid, $orcid-color),
+  (researchgate, $researchgate-color),
+  (rss, $rss-color),
+  (uri, $uri-color),
+  (youtube, $youtube-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
