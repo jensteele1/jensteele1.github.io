@@ -98,5 +98,5 @@ Do not assume that the person reading your cover letter has already memorized yo
 
 Some eye-tracking studies have found that recruiters spend only 6-7 seconds reading each resume or cover letter. 
 Even if recruiters in education fields are more generous than that, you must *think of your cover letter and resume as tightly organized, miniature works 
-of art.* They must be extremely well-written, formatted, and edited so that they immediately grab the recruiter -- **not** with bold graphics or colors, 
+of art.* They should be carefully written, formatted, and edited so that they draw recruiters' attention -- **not** with bold graphics or colors, 
 but with the unique combination of training, skills, and commitment that you would bring to their organization. 
