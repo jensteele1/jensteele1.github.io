@@ -7,8 +7,7 @@ order_number: 50
 ---
 
 This work centers on several meta-analyses of how education programs in carceral settings (e.g., prisons, jails, juvenile detention centers) influence
-the academic skills of incarcerated individuals, as well as their recidivism and employment rates after release. It was funded in 2010 by the U.S. Bureau 
-of Justice Assistance and led by Drs. Lois Davis and Robert Bozick at the RAND Corporation.
+the academic skills of incarcerated individuals, as well as their recidivism and employment rates after release.
 
 ## Educational Methods for Incarcerated Adults and Juveniles  
 **Funder:** U.S. Department of Justice's Bureau of Justice Assistance  
