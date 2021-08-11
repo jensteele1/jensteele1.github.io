@@ -16,7 +16,9 @@ Steele, J. L., Slater, R. O., Zamarro, G., Miller, T., Li, J., Burkhauser, S., &
 
 Using data from seven cohorts of language immersion lottery applicants in a large, urban school district, we estimate the causal effects of immersion programs on students’ test scores in reading, mathematics, and science and on English learners’ (EL) reclassification. We estimate positive intent-to-treat (ITT) effects on reading performance in fifth and eighth grades, ranging from 13% to 22% of a standard deviation, reflecting 7 to 9 months of learning. We find little benefit in terms of mathematics and science performance but also no detriment. By sixth and seventh grade, lottery winners’ probabilities of remaining classified as EL are 3 to 4 percentage points lower than those of their counterparts. This effect is stronger for ELs whose native language matches the partner language.
   
-[Article](https://journals.sagepub.com/doi/10.3102/0002831216634463){: .btn--research} [Preprint](/files/2017-dli-effects-preprint.pdf){: .btn--research} 
+[Article](https://journals.sagepub.com/doi/10.3102/0002831216634463){: .btn--research} 
+[Preprint](/files/2017-dli-effects-preprint.pdf){: .btn--research} 
+[Online Appendix](/files/2017-dli-effects-appendix.pdf){: .btn--research} 
 [Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:HfETI4ouGEEJ:scholar.google.com/&output=citation&scisdr=CgXItk0jEPb7otBL3Iw:AAGBfm0AAAAAYQxOxIzgpMXv6wELLW3e7srI7L5MBBPo&scisig=AAGBfm0AAAAAYQxOxJWGL4ClHQZpwBKQ4vx9Fvzm5vwU&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} 
 [RAND Research Brief](https://www.rand.org/pubs/research_briefs/RB9903.html){: .btn--research}
 
@@ -50,9 +52,11 @@ Many educators and policymakers look to two-way dual language immersion as one o
 [RAND Research Brief](https://www.rand.org/pubs/research_briefs/RB9921.html){: .btn--research}   
 
 
-Anderson, K., Zamarro, G., Steele, J. L., Miller, T. (In Press.) Comparing performance of methods to deal with differential attrition in lottery based evaluations. *Evaluation Review.*
+Anderson, K., Zamarro, G., Steele, J. L., Miller, T. (2021.) Comparing performance of methods to deal with differential attrition in randomized experimental evaluations. *Evaluation Review, 45*(1-2), 70-104.
 
-In randomized controlled trials, attrition rates often differ by treatment status, jeopardizing causal inference. Inverse probability weighting (Hirano et al, 2003; Busso et al., 2014) 
+This paper uses state and local data from the Portland dual-language immersion study to examine statistical methods for addressing differential attrition, which happens when randomized 
+treatment- and control-group participants exit the sample at different rates. In randomized controlled trials, attrition rates often differ by treatment status, jeopardizing causal inference. 
+Inverse probability weighting (Hirano et al, 2003; Busso et al., 2014) 
 and estimation of treatment effect bounds (e.g. Lee, 2009; Angrist et al., 2006) have been used to adjust for this bias. We compare the performance of various methods within two samples, 
 both generated through lottery-based randomization: one with considerable differential attrition and an augmented dataset with less problematic attrition. We assess the 
 performance of various correction methods within the dataset with problematic attrition. In addition, we conduct simulation analyses. Within the more problematic dataset, we find the 
@@ -60,7 +64,10 @@ correction methods often performed poorly. Simulation analyses indicate that dev
 performance of estimated bounds. We recommend the verification of the underlying assumptions in attrition correction methods whenever possible and, when verification is not possible, 
 using these methods with caution.
 
+[Article](https://doi.org/10.1177/0193841X211034363){: .btn--research} 
 [Preprint](/files/2021-difattrit-preprint.pdf){: .btn--research} 
+[Bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:EsaeEyxt2JoJ:scholar.google.com/&output=citation&scisdr=CgXItk0jEPb7osgP_S4:AAGBfm0AAAAAYRQK5S6deM_8OvtaGa6R7Kh_hA_JQVA3&scisig=AAGBfm0AAAAAYRQK5YSZ8i6UxzhB_HOvxbGTv62ErOIN&scisf=4&ct=citation&cd=-1&hl=en){: .btn--research} 
+[Online Appendix](https://journals.sagepub.com/doi/suppl/10.1177/0193841X211034363){: .btn--research}  
 
 
 ## Effects of a Statewide Dual-Language Immersion Scale-Up in Utah
