@@ -15,7 +15,7 @@ decision making intervention in a large U.S. school district.
 ## Report from Randomized Field Trial of a Data-Based Decisionmaking Professional Development Intervention
 **Cavalluzzo, L., Geraghty, T. M., Steele, J. L., Holian, L., Jenkins, F., Alexander, J. M., & Yamasaki, K. Y. (2014). 
 Using data to inform practice and improve student performance in mathematics: Results from a randomized experiment of program efficacy. 
-Alexandria, VA: CNA. **  
+Alexandria, VA: CNA.**  
 Our evaluation finds a positive effect of the Using Data intervention on teacher behavior after year 1 of the study. Specifically, teachers in
 the treatment group at the end of year 1 reported using data more frequently, exhibited higher levels of data literacy compared with
 control teachers, and held attitudes and beliefs that were more favorable toward data use for instructional improvement.
@@ -23,8 +23,8 @@ We do not find an overall treatment effect of the UD program on schoolwide stude
 assessment. Restricting the sample to the students of intent-to-treat (ITT) teachers at the end of year 2 (ie, limiting the sample to
 students of teachers who were in the randomized sample and offered the UD program from the beginning), also yields a null effect overall.
 However, students of ITT teachers from the block of lowestperforming schools at baseline show improvements in year 2 that are
-moderately sized and statistically significant (effect size = .40, p = .01). **The weight of the evidence presented here indicates that Using Data
-improves teachers’ outcomes after one year, and improves the outcomes of their students *in high-needs schools* after two years.** We
+moderately sized and statistically significant (effect size = .40, p = .01). *The weight of the evidence presented here indicates that Using Data
+improves teachers’ outcomes after one year, and improves the outcomes of their students <u>in high-needs schools</u> after two years.* We
 conclude that further research and evaluation of the Using Data program are warranted.  
 [Report](https://files.eric.ed.gov/fulltext/ED555557.pdf){: .btn--research}
 
