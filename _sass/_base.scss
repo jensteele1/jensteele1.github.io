@@ -316,3 +316,19 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+
+/* 
+    Scrollbar attempted fix - Steele 17 Nov 2021 
+    from antonylewis on https://github.com/Roam-Research/issues/issues/85
+    ======================================================================= */
+    
+    div::-webkit-scrollbar {
+        width: 10px;
+    }
+    div::-webkit-scrollbar-track {
+        background-color: #9993 !important;
+    }
+    div::-webkit-scrollbar-thumb {
+        background-color: #9999 !important;
+    }
