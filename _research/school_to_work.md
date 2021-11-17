@@ -19,9 +19,9 @@ Spain versus the United States.
 
 ## Information Disparities En Route to College and Career  
 
-Steele, J. L. (2021). Unpacking variation in college effectiveness: An instrumental variables approach. (Work-in-progress.) 
+Steele, J. L. (2021). Unpacking variation in college effectiveness: An instrumental variables approach. (Working Paper.) 
 
-[Preprint](/files/tabular3.pdf){: .btn--research}  
+[Working Paper](/files/draft_v4.pdf){: .btn--research}  
 
 
 ## Postbaccalaureate Trajectories of Military Veterans in the Civilian Labor Market

@@ -46,7 +46,7 @@ and Policy in the School of Public Affairs.
 
 * Doctor of Education (Ed.D.) in Administration, Planning and Social Policy, Harvard University, Cambridge, MA
 * Master of Arts in Education, Stanford University, Palo Alto, CA
-* Master of Arts in English, Geoorgetown University (Concentration in the Teaching of Writing), Washington, DC
+* Master of Arts in English, Georgetown University (Concentration in the Teaching of Writing), Washington, DC
 * Bachelor of Arts in Psychology and Honors English, Georgetown University, Washington, DC
 * Junior Year Abroad with studies in Psychology and English, University of Sussex, Brighton, UK
 
