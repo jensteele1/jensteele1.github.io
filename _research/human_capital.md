@@ -14,7 +14,7 @@ This body of research evaluates strategies for improving access to highly effect
 
 **Steele, J. L., Steiner, E. D., & Hamilton, L. S. (2020). Priming the leadership pipeline: School performance and climate under an urban school leadership residency program. <i>Educational Administration Quarterly, 57</i>(2), 221–256.**  
 We evaluated a school leadership residency program that prepared a pipeline of educators from the local community to become future school principals. 
-The two-year residency program combined at least 370 hours of professional development with on-the-job training. Residents were employed as either assistant-level administrators in traditional or charter schools, or as teacher leaders in traditional schools. 
+The two-year residency experience combined at least 370 hours of professional development with on-the-job training. Residents were employed as either assistant-level administrators in traditional or charter schools, or as teacher leaders in traditional schools. 
 Of the 37 educators who completed the program, 1 became principal in the first 3 years due to few openings, so we estimated the effects of schools' cumulative exposure to program residents and graduates, whose work focused on instructional practice and school climate.
 We used school-by-year panel data and school fixed effects to estimate program effects net of stable school characteristics. 
 An additional resident-by-year in an administrative role in high schools was linked to an additional 15% of a school-level SD in math scale scores and an additional 3.6 percentage points in graduation rates, but also to an additional 10 percentage points in suspension rates. 
