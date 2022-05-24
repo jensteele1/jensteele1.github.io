@@ -1,5 +1,5 @@
 ---
-title: "Transitions Between School, Military Sevice, and the Civilian Labor Market"
+title: "Transitions Among School, Military Sevice, and the Civilian Labor Market"
 permalink: /research/school_to_work
 layout: single-portfolio
 collection: research
@@ -16,6 +16,14 @@ students' geographic distance to colleges and universities to estimate causal ef
 exploring how European-style vocational pathways may influence social inequality, examines how educational attainment mediates the relationship 
 between young adults' family background and labor market outcomes in 
 Spain versus the United States.
+
+
+## International Variation in Paths to the Labor Market
+
+Steele., J. L. (2021). Education and opportunity in Spain and the U.S.: Evidence from youth labor market entry over time. (Slides in Spanish.)
+
+[Diapositivas en español](https://www.dropbox.com/s/duzf2q20fwq15z9/sumstat_diapositivas.pdf?dl=0){: .btn--research} 
+
 
 ## Information Disparities En Route to College and Career  
 
