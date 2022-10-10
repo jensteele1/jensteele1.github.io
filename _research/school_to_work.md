@@ -20,9 +20,11 @@ Spain versus the United States.
 
 ## International Variation in Paths to the Labor Market
 
-Steele., J. L. (2021). Education and opportunity in Spain and the U.S.: Evidence from youth labor market entry over time. (Slides in Spanish.)
+Steele., J. L. (2021). Education and opportunity in Spain and the U.S.: Evidence from youth labor market entry. (Working Paper.)
 
 [Diapositivas en español](https://www.dropbox.com/s/duzf2q20fwq15z9/sumstat_diapositivas.pdf?dl=0){: .btn--research} 
+[Slides in English](https://www.dropbox.com/s/4w84ykducuw8zn6/sumstat_articulo_exhibend.pdf?dl=0){: .btn--research} 
+[Working Paper](https://www.dropbox.com/s/4w84ykducuw8zn6/sumstat_articulo_exhibend.pdf?dl=0){: .btn--research} 
 
 
 ## Information Disparities En Route to College and Career  
