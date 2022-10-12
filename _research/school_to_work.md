@@ -10,17 +10,26 @@ This set of research includes a 2010 project that examined implementation of the
 as well as a later examination of military veterans' employment and earnings after receiving bachelor's degrees from public, private, 
 or for-profit colleges and universities. The more recent work focuses on young people's transitions to postsecondary education and the labor market. 
 
-Newer work-in-progress focuses broadly on information disparities en route to college and career. One part of the project leverages high school 
-students' geographic distance to colleges and universities to estimate causal effects of different kinds of postsecondary institutions 
+Newer work-in-progress focuses broadly on information disparities en route to college and career. One part of the project leverages high school students' geographic distance to colleges and universities to estimate causal effects of different kinds of postsecondary institutions 
 (e.g., high-success, competitive, STEM-intensive, and HBCU) on early-career educational attainment and earnings. Another work-in-progress, 
 exploring how European-style vocational pathways may influence social inequality, examines how educational attainment mediates the relationship 
-between young adults' family background and labor market outcomes in 
-Spain versus the United States.
+between young adults' family background and labor market outcomes in Spain versus the United States.
 
 
 ## International Variation in Paths to the Labor Market
 
 Steele., J. L. (2021). Education and opportunity in Spain and the U.S.: Evidence from youth labor market entry. (Working Paper.)
+
+This work was undertaken at the [Madrid Institute for Advanced Study](https://www.madrid-ias.eu/index.php?id=3892&L=0%20) 
+in Spain in spring 2022 with funding through the François Chevalier Fellowship program. 
+
+Using broad random samples of young adults ages 24 to 30 in Spain and the United States, this paper considers the magnitude and mechanisms of 
+socioeconomic mobility in each country. Socioeconomic mobility is greater in Spain, but this does not appear to be driven by greater equality 
+in educational attainment. Educational attainment, in turn, is strongly linked to employment and earnings in the U.S. but not in Spain. On the 
+other hand, educational attainment predicts job satisfaction more strongly in Spain than in the U.S., especially among individuals who possess 
+permanent labor contracts or whose jobs are suitable for their levels of education. Lower-level vocational credentials are linked to 
+higher-than-predicted rates of employment in Spain, but this difference is not reflected in higher monthly earnings, nor does it appear to be 
+driven by differences in local prevalence of such credentials.
 
 [Diapositivas en español](https://www.dropbox.com/s/duzf2q20fwq15z9/sumstat_diapositivas.pdf?dl=0){: .btn--research} 
 [Slides in English](https://www.dropbox.com/s/0i5qec3bkzil6j3/sumstat_diapositivas_ing2.pdf?dl=0){: .btn--research} 
@@ -30,6 +39,13 @@ Steele., J. L. (2021). Education and opportunity in Spain and the U.S.: Evidence
 ## Information Disparities En Route to College and Career  
 
 Steele, J. L. (2021). Unpacking variation in college effectiveness: An instrumental variables approach. (Working Paper.) 
+
+The question of why postsecondary institutions produce different labor market outcomes is difficult to answer due to unobserved student 
+characteristics that drive institutional choice as well as earnings. I leverage students' geographic proximity to three types of U.S. postsecondary 
+institutions---competitive, earnings-enhancing, and Historically Black Colleges and Universities. Using a nationally representative random sample, 
+I estimate attainment and earnings effects of first attending each institution type. Attending an earnings-enhancing institution predicts higher wages,
+whereas underrepresented students' attendance at an HBCU predicts lower wages. Initial attendance at all three focal types predicts higher rates of 
+bachelor's degree completion and postbaccalaureate pursuit.
 
 [Working Paper](/files/draft_v5.pdf){: .btn--research}  
 
