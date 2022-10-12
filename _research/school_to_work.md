@@ -1,9 +1,9 @@
 ---
-title: "Transitions Among School, Military Sevice, and the Civilian Labor Market"
+title: "School-to-Work Transitions for Youth and for Military Veterans"
 permalink: /research/school_to_work
 layout: single-portfolio
 collection: research
-order_number: 40
+order_number: 30
 ---
 
 This set of research includes a 2010 project that examined implementation of the Post-9/11 GI Bill for returning military veterans,

@@ -3,7 +3,7 @@ title: "Equitable Access to High-Quality Teachers and School Leaders"
 permalink: /research/human_capital
 layout: single-portfolio
 collection: research
-order_number: 30
+order_number: 40
 ---
 
 This body of research evaluates strategies for improving access to highly effective teachers and school leaders, especially for students from low-income backgrounds and students of color.
