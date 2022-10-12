@@ -79,6 +79,7 @@ Bill benefits for these cohorts.
 **Years:** 2010
 
 ![Service Members in School Report Cover](/images/svcmbr_2010_cover.png){:height="25%" width="25%"} 
+
 Steele, J. L., Salcedo, N., & Coley, J. (2010). Service members in school: Military veterans’ experiences using the Post-9/11 GI Bill and pursuing postsecondary education. American Council on Education and the RAND Corporation.  
 
 The Post-9/11 GI Bill, which took effect in August of 2009, significantly increased the higher education benefits available to eligible individuals who served on active duty in the U.S. armed forces after September 10, 2001. The result is the most generous education benefit for veterans since the original GI Bill of 1944. However, the new array of benefits is also more complicated to administer than benefits offered under the existing Montgomery GI Bill, resulting in numerous first-year implementation challenges. To better understand these challenges from the perspective of students and higher education institutions, the American Council on Education (ACE) asked RAND to survey and conduct focus groups with veterans and eligible dependents and to interview higher education administrators. This report, which was made possible by ACE and the Lumina Foundation for Education, presents results of the study, describing not only students' and institutions' reported experiences with the new benefits, 
