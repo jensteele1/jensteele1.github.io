@@ -1,5 +1,5 @@
 ---
-title: "School-to-Work Transitions for Youth and for Military Veterans"
+title: "School-to-Work Transitions"
 permalink: /research/school_to_work
 layout: single-portfolio
 collection: research
