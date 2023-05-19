@@ -47,7 +47,7 @@ I estimate attainment and earnings effects of first attending each institution t
 whereas underrepresented students' attendance at an HBCU predicts lower wages. Initial attendance at all three focal types predicts higher rates of 
 bachelor's degree completion and postbaccalaureate pursuit.
 
-[Working Paper](/files/draft_v5.pdf){: .btn--research}  
+[Working Paper](/files/draft_v7.pdf){: .btn--research}  
 
 
 ## Postbaccalaureate Trajectories of Military Veterans in the Civilian Labor Market
