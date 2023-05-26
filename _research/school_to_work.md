@@ -33,7 +33,7 @@ driven by differences in local prevalence of such credentials.
 
 [Diapositivas en español](https://www.dropbox.com/s/duzf2q20fwq15z9/sumstat_diapositivas.pdf?dl=0){: .btn--research} 
 [Slides in English](https://www.dropbox.com/s/0i5qec3bkzil6j3/sumstat_diapositivas_ing2.pdf?dl=0){: .btn--research} 
-[Working Paper](https://www.dropbox.com/s/4w84ykducuw8zn6/sumstat_articulo_exhibend.pdf?dl=0){: .btn--research} 
+[Preprint Working Paper](https://www.dropbox.com/s/rh12kr86z7xjfgn/sumstat_articulo_exhibend_november2022.pdf?dl=0){: .btn--research} 
 
 
 ## Information Disparities En Route to College and Career  
