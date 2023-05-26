@@ -23,13 +23,13 @@ Steele., J. L. (2021). Education and opportunity in Spain and the U.S.: Evidence
 This work was undertaken at the [Madrid Institute for Advanced Study](https://www.madrid-ias.eu/index.php?id=3892&L=0%20) 
 in Spain in spring 2022 with funding through the François Chevalier Fellowship program. 
 
-Using broad random samples of young adults ages 24 to 30 in Spain and the United States, this paper considers the magnitude and mechanisms of 
-socioeconomic mobility in each country. Socioeconomic mobility is greater in Spain, but this does not appear to be driven by greater equality 
-in educational attainment. Educational attainment, in turn, is strongly linked to employment and earnings in the U.S. but not in Spain. On the 
-other hand, educational attainment predicts job satisfaction more strongly in Spain than in the U.S., especially among individuals who possess 
-permanent labor contracts or whose jobs are suitable for their levels of education. Lower-level vocational credentials are linked to 
-higher-than-predicted rates of employment in Spain, but this difference is not reflected in higher monthly earnings, nor does it appear to be 
-driven by differences in local prevalence of such credentials.
+Using large random samples of young adults ages 24 to 30 in Spain and the United States, I examine socioeconomic mobility in each country 
+and how vocational education options may enhance or detract from such mobility. In Spain, the socioeconomic status of young adults is less 
+dependent on that of their parents than in the U.S., but educational attainment is strongly related to family background in both countries. 
+What differ are educational returns. In Spain, educational attainment strongly predicts job satisfaction, but in the U.S., it predicts 
+employment and earnings. Yet, if the distribution of average adult skills by education level in the U.S. matched that of Spain, inequality 
+by education level in the U.S. would be roughly halved, all else remaining equal. Regarding the role of vocational education, young adults in 
+Spain with non-tertiary vocational credentials show an employment advantage that does not translate to higher earnings.
 
 [Diapositivas en español](https://www.dropbox.com/s/duzf2q20fwq15z9/sumstat_diapositivas.pdf?dl=0){: .btn--research} 
 [Slides in English](https://www.dropbox.com/s/0i5qec3bkzil6j3/sumstat_diapositivas_ing2.pdf?dl=0){: .btn--research} 
