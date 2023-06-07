@@ -15,8 +15,3 @@ main:
   - title: "Media"
     url: /talks/  
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Guide"
-    url: /markdown/    
