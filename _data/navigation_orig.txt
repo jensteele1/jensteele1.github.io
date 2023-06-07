@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/ 
+
+  - title: "CV"
+    url: /cv/ 
+
+  - title: "Teaching"
+    url: /teaching/  
+
+  - title: "Career Advising"
+    url: /advising/
+
+  - title: "Media"
+    url: /talks/  
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "Guide"
+    url: /markdown/    
