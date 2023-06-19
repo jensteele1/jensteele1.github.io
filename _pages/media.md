@@ -10,7 +10,7 @@ author_profile: true
 
 
 Setbacks of the COVID pandemic on schoolchildren. CGTN interview with Asieh Namdar, Oct. 25, 2022
-<iframe width="25%" height="25%" src="https://www.youtube.com/embed/PrgTKFXEUrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="260" height="146" src="https://www.youtube.com/embed/PrgTKFXEUrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Inflation and teacher shortages as kids head back to school. CGTN interview with Phillip Yin, Sept. 8, 2022
 <iframe width="260" height="146" src="https://www.youtube.com/embed/0bzKhmxQ_yA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
