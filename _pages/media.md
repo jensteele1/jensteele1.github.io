@@ -39,11 +39,3 @@ Jackson, H. One millionth veteran receives GI Bill benefits [Television]. Milwau
 
 Garrison, M. Post-9/11 GI Bill means a new Greatest Generation [Radio], Marketplace. USA: American Public Media. http://www.marketplace.org/ topics/economy/post-911-gi-bill-means-new-greatest-generation
 
-### Table 1
-
-| Entry            |  Thumbnail                                                            |
-| --------         | ------------------------------------------------------------ |
-| Omicron cases begin to fall in the U.S. Panel on CGTN's *The Heat* with Mike Walter, Jan. 25, 2022
-   | <iframe width="50%" height="50%" src="https://www.youtube.com/embed/eGIZB48__tE&t=355s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> |
-| [Jane Doe](#)    | Description of the item in the list                          |
-| [Doe Doe](#)     | Description of the item in the list                          |
