@@ -19,7 +19,7 @@ U.S. teacher shortage. Panel on CGTN's *The Heat* with Mike Walter, Feb. 11, 202
 <iframe width="260" height="146" src="https://www.youtube.com/embed/hmaPhZFJfXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Omicron cases begin to fall in the U.S. Panel on CGTN's *The Heat* with Mike Walter, Jan. 25, 2022
-<iframe width="260" height="146" src="https://www.youtube.com/embed/eGIZB48__tE&t=355s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="260" height="146" src="https://www.youtube.com/embed/eGIZB48__tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Chicago teacher strikes and COVID-19. CGTN interview with Rachelle Akuffo, Jan. 19, 2022
 (No link available)
