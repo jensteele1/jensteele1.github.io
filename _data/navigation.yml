@@ -10,13 +10,13 @@ main:
     url: /teaching/  
 
   - title: "Career Advising"
-    url: /advising/
-
-  - title: "Media"
-    url: /media/  
+    url: /advising/  
 
   - title: "Opinions and Blogs"
     url: /opinion/ 
+
+  - title: "Media"
+    url: /media/
 
   - title: "Books"
     url: /books/
