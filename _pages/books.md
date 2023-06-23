@@ -11,11 +11,11 @@ author_profile: true
   
 ## Edited and Co-Authored Book  
   
-[![Data Wise in Action](/images/datawiseinaction.jpg)](https://www.hepg.org/hep-home/books/data-wise-in-action) Boudett, K. P. and Steele, J. L., Editors. (2007). Data wise in action: Stories of schools using data to improve teaching and learning. Cambridge, MA: Harvard Education Press. ISBN-13: 978-1-891792-81-6
+[![Data Wise in Action](/images/datawiseinaction.jpg){:height=200 width=155}](https://www.hepg.org/hep-home/books/data-wise-in-action) Boudett, K. P. and Steele, J. L., Editors. (2007). Data wise in action: Stories of schools using data to improve teaching and learning. Cambridge, MA: Harvard Education Press. ISBN-13: 978-1-891792-81-6
 
 ## Edited Book 
 
-[![Adolescent Literacy](/images/adlit.jpg)](https://www.hepg.org/hep-home/books/adolescent-literacy_154) Ippolito, J., Steele, J. L., and Samson, J. F.  (2008, Reprinted in 2012). Adolescent literacy. Cambridge, MA: Harvard Education Press. ISBN-13: 978-0916690526; ISBN-10: 0916690520
+[![Adolescent Literacy](/images/adlit.jpg){:height=200 width=155}](https://www.hepg.org/hep-home/books/adolescent-literacy_154) Ippolito, J., Steele, J. L., and Samson, J. F.  (2008, Reprinted in 2012). Adolescent literacy. Cambridge, MA: Harvard Education Press. ISBN-13: 978-0916690526; ISBN-10: 0916690520
 
 
 ## Research Monographs
@@ -33,5 +33,5 @@ author_profile: true
 
 [![Incorporating Measures](/images/incorporate.jpg)](https://www.rand.org/pubs/technical_reports/TR917.html)  Steele, J. L., Hamilton, L. S., Stecher, B. M. (2010). Incorporating student performance measures into teacher evaluation systems. Washington, DC: Center for American Progress. (52 pages, 5 chapters) ISBN: 978-0-8330-5250-6 
 
-[![Service Members in School](/images/svcmbr_2010_cover.png)](https://www.rand.org/pubs/monographs/MG1083.html) Steele, J. L., Salcedo, N.1, & Coley, J. (2010). Service members in school: Military veterans’ experiences using the Post-9/11 GI Bill and adapting to life on campus. Washington, DC: American Council on Education and RAND Corporation. (96 pages, 4 chapters) 
+[![Service Members in School](/images/svcmbr_2010_cover.png){:height=200 width=155}](https://www.rand.org/pubs/monographs/MG1083.html) Steele, J. L., Salcedo, N.1, & Coley, J. (2010). Service members in school: Military veterans’ experiences using the Post-9/11 GI Bill and adapting to life on campus. Washington, DC: American Council on Education and RAND Corporation. (96 pages, 4 chapters) 
 
