@@ -8,22 +8,22 @@ author_profile: true
 ## Television Interviews
   
 
-(Embedded videos may take a moment to load.)
+*(Embedded videos may take a moment to load.)*
   
 
 <iframe style="border:none;width:60%;height:100%;" src="https://www.youtube.com/embed/PrgTKFXEUrI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Setbacks of the COVID pandemic on schoolchildren. CGTN interview with Asieh Namdar, Oct. 25, 2022
   
 
-<iframe width="260" height="146" src="https://www.youtube.com/embed/0bzKhmxQ_yA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border:none;width:60%;height:100%;" src="https://www.youtube.com/embed/0bzKhmxQ_yA" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Inflation and teacher shortages as kids head back to school. CGTN interview with Phillip Yin, Sept. 8, 2022
   
 
-<iframe width="260" height="146" src="https://www.youtube.com/embed/hmaPhZFJfXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border:none;width:60%;height:100%;" src="https://www.youtube.com/embed/hmaPhZFJfXU" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 U.S. teacher shortage. Panel on CGTN's *The Heat* with Mike Walter, Feb. 11, 2022
   
 
-<iframe width="260" height="146" src="https://www.youtube.com/embed/eGIZB48__tE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border:none;width:60%;height:100%;" src="https://www.youtube.com/embed/eGIZB48__tE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Omicron cases begin to fall in the U.S. Panel on CGTN's *The Heat* with Mike Walter, Jan. 25, 2022
   
 
@@ -31,11 +31,11 @@ Omicron cases begin to fall in the U.S. Panel on CGTN's *The Heat* with Mike Wal
 Chicago teacher strikes and COVID-19. CGTN interview with Rachelle Akuffo, Jan. 19, 2022.
   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8l9CAAZxBmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border:none;width:60%;height:100%;" src="https://www.youtube.com/embed/8l9CAAZxBmM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Jennifer Steele talks about the U.S. educational system. CGTN interview with Rachelle Akuffo, April 9, 2021
   
 
-[![cspan_dec2020](/images/cspan_dec2020.png){:height="100%" width="100%"}](https://www.c-span.org/video/?507523-1/biden-education-policy-agenda)
+[![cspan_dec2020](/images/cspan_dec2020.png){:height="60%" width="60%"}](https://www.c-span.org/video/?507523-1/biden-education-policy-agenda)
 Biden education policy agenda. C-SPAN panel moderated by Lisa Stark, Dec. 23, 2020
   
 
