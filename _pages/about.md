@@ -50,6 +50,6 @@ and Policy in the School of Public Affairs.
 * Bachelor of Arts in Psychology and Honors English, Georgetown University, Washington, DC
 * Junior Year Abroad with studies in Psychology and English, University of Sussex, Brighton, UK
 
-## Site Design
+### Site Design
 
 This site is based on the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted free on [GitHub pages](https://pages.github.com). 
