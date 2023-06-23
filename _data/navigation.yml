@@ -17,4 +17,7 @@ main:
 
   - title: "Opinions and Blogs"
     url: /opinion/ 
+
+  - title: "Books"
+    url: /books/
         
