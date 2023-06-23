@@ -27,7 +27,7 @@ U.S. teacher shortage. Panel on CGTN's *The Heat* with Mike Walter, Feb. 11, 202
 Omicron cases begin to fall in the U.S. Panel on CGTN's *The Heat* with Mike Walter, Jan. 25, 2022
   
 
-(Video not available.)  
+*(Video not available.)*  
 Chicago teacher strikes and COVID-19. CGTN interview with Rachelle Akuffo, Jan. 19, 2022.
   
 
@@ -43,7 +43,7 @@ Biden education policy agenda. C-SPAN panel moderated by Lisa Stark, Dec. 23, 20
 Parents face difficult decision about in-person learning as COVID cases rise. NBC4 News, Washington, DC.
   
 
-(Video not available.)  
+*(Video not available.)*  
 Study: Dual education programs improve students’ test scores. Fox News interview with Brian Llenas, Jan. 3, 2016.
   
 
@@ -59,6 +59,6 @@ One millionth veteran receives GI Bill benefits, Milwaukee Channel 2 interview w
 Hogan’s back-to-school order means a time crunch for some Md. Districts. WTOP News Radio interview with Jack Moore, Sept. 1, 2016.
   
 
-[Link to audio.] (http://www.marketplace.org/ topics/economy/post-911-gi-bill-means-new-greatest-generation)  
+[Link to audio.](http://www.marketplace.org/ topics/economy/post-911-gi-bill-means-new-greatest-generation)  
 Post-9/11 GI Bill means a new Greatest Generation, Marketplace radio interview with Mark Garrison, American Public Media, Sept. 26, 2013.
   
