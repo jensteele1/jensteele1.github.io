@@ -11,7 +11,7 @@ author_profile: true
   
 ## Edited and Co-Authored Book  
   
-[![Data Wise in Action](/images/datawiseinaction.jpg){:height="200" width="155"}](https://www.hepg.org/hep-home/books/data-wise-in-action)  
+[![Data Wise in Action](/images/datawiseinaction.jpg){:height="220" width="155"}](https://www.hepg.org/hep-home/books/data-wise-in-action)  
 Boudett, K. P. and Steele, J. L., Editors. (2007). Data wise in action: Stories of schools using data to improve teaching and learning. Cambridge, MA: Harvard Education Press. ISBN-13: 978-1-891792-81-6
 
 ## Edited Book 
