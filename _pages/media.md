@@ -11,7 +11,7 @@ author_profile: true
 (Embedded videos may take a moment to load.)
   
 
-<iframe width="260" height="146" src="https://www.youtube.com/embed/PrgTKFXEUrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="border:none;width:50%;height:50%;" src="https://www.youtube.com/embed/PrgTKFXEUrI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Setbacks of the COVID pandemic on schoolchildren. CGTN interview with Asieh Namdar, Oct. 25, 2022
   
 
