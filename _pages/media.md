@@ -36,6 +36,7 @@ Jennifer Steele talks about the U.S. educational system. CGTN interview with Rac
   
 
 [![cspan_dec2020](/images/cspan_dec2020.png){:height="60%" width="60%"}](https://www.c-span.org/video/?507523-1/biden-education-policy-agenda)  
+  
 Biden education policy agenda. C-SPAN panel moderated by Lisa Stark, Dec. 23, 2020
   
 
