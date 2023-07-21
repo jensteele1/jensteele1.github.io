@@ -5,6 +5,7 @@ permalink: /opinion/
 author_profile: true
 ---
   
+(2023, Jul. 20) [Don't ban ChatGPT: Teach students to do what it can't do.](https://thehill.com/opinion/technology/4105892-dont-ban-chatgpt-teach-students-to-do-what-it-cant-do/) *The Hill.*
   
 (2021, Oct. 15) [Focusing on safety can help schools mitigate teacher stress.](https://www.eschoolnews.com/2021/10/15/focusing-on-safety-can-help-schools-mitigate-teacher-stress/) *eSchool News.*  
   
