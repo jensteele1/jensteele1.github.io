@@ -10,6 +10,9 @@ author_profile: true
 
 *(Embedded videos may take a moment to load.)*
   
+<iframe style="border:none;width:60%;height:100%;" src="https://www.youtube.com/embed/GIsNW-anQP4" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Global business: School supplies costs reach $41.5 billion. CGTN interview with Karina Mitchell, Aug. 18, 2023
+  
 
 <iframe style="border:none;width:60%;height:100%;" src="https://www.youtube.com/embed/PrgTKFXEUrI" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Setbacks of the COVID pandemic on schoolchildren. CGTN interview with Asieh Namdar, Oct. 25, 2022
