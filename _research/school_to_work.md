@@ -11,14 +11,26 @@ as well as a later examination of military veterans' employment and earnings aft
 or for-profit colleges and universities. The more recent work focuses on young people's transitions to postsecondary education and the labor market. 
 
 Newer work-in-progress focuses broadly on information disparities en route to college and career. One part of the project leverages high school students' geographic distance to colleges and universities to estimate causal effects of different kinds of postsecondary institutions 
-(e.g., high-success, competitive, STEM-intensive, and HBCU) on early-career educational attainment and earnings. Another work-in-progress, 
-exploring how European-style vocational pathways may influence social inequality, examines how educational attainment mediates the relationship 
-between young adults' family background and labor market outcomes in Spain versus the United States.
-
-
+(e.g., high-success, competitive, STEM-intensive, and HBCU) on early-career educational attainment and earnings.  
+  
+In 2022-2023 work exploring how European-style vocational pathways may influence social inequality, I examine how educational attainment mediates the relationship 
+between young adults' family background and labor market outcomes in Spain versus the United States.   
+  
+My 2023 work on Artificial Intelligence (AI) examines how AI is likely to affect the future workforce, and what this means for how we teach AI in K-12 and postsecondary education.
+    
+  
+## Artificial Intelligence: Implications for Education and Equity  
+  
+Steele, J. L. (2023). How will AI affect students' employability? Implications for equity in education (Working Paper in Progress) {: .btn--research}
+[Working Paper in Progress](/files/ai_workforce_wp.pdf){: .btn--research}  
+  
+Steele, J. L. (2023). To GPT or not GPT: Empowering our students to learn with AI. *Computers & Education: Artificial Intelligence, 5.* 
+[Full text article]{https://doi.org/https://doi.org/10.1016/j.caeai.2023.100160}{: .btn--research}
+  
+  
 ## International Variation in Paths to the Labor Market
 
-Steele., J. L. (2021). Education and opportunity in Spain and the U.S.: Evidence from youth labor market entry. (Working Paper.)
+Steele., J. L. (In press in 2023). Education and opportunity in Spain and the U.S.: Evidence from youth labor market entry. *International Journal of Education Economics and Development.*
 
 This work was undertaken at the [Madrid Institute for Advanced Study](https://www.madrid-ias.eu/index.php?id=3892&L=0%20) 
 in Spain in spring 2022 with funding through the François Chevalier Fellowship program. 
@@ -33,7 +45,8 @@ Spain with non-tertiary vocational credentials show an employment advantage that
 
 [Diapositivas en español](https://www.dropbox.com/s/duzf2q20fwq15z9/sumstat_diapositivas.pdf?dl=0){: .btn--research} 
 [Slides in English](https://www.dropbox.com/s/0i5qec3bkzil6j3/sumstat_diapositivas_ing2.pdf?dl=0){: .btn--research} 
-[Preprint Working Paper](https://www.dropbox.com/s/rh12kr86z7xjfgn/sumstat_articulo_exhibend_november2022.pdf?dl=0){: .btn--research} 
+[Preprint Working Paper](https://www.dropbox.com/s/rh12kr86z7xjfgn/sumstat_articulo_exhibend_november2022.pdf?dl=0){: .btn--research}
+[Journal link to abstract](https://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijeed){: .btn--research}
 
 
 ## Information Disparities En Route to College and Career  
