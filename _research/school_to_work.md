@@ -25,7 +25,7 @@ Steele, J. L. (2023). How will AI affect students' employability? Implications f
 [Working Paper in Progress](/files/ai_workforce_wp.pdf){: .btn--research}  
   
 Steele, J. L. (2023). To GPT or not GPT: Empowering our students to learn with AI. *Computers & Education: Artificial Intelligence, 5.* 
-[Full text article]{https://doi.org/https://doi.org/10.1016/j.caeai.2023.100160}{: .btn--research}
+[Full text article](https://doi.org/https://doi.org/10.1016/j.caeai.2023.100160){: .btn--research}
   
   
 ## International Variation in Paths to the Labor Market
