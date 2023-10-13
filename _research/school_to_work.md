@@ -30,19 +30,19 @@ Steele, J. L. (2023). To GPT or not GPT: Empowering our students to learn with A
   
 ## International Variation in Paths to the Labor Market
 
-Steele., J. L. (In press in 2023). Education and opportunity in Spain and the U.S.: Evidence from youth labor market entry. *International Journal of Education Economics and Development.*
+Steele., J. L. (In press in 2023). Education and opportunity in Spain and the U.S.: Evidence from youth labor market entry. *International Journal of Education Economics and Development.* doi: 10.1504/IJEED.2024.10057537
 
 This work was undertaken at the [Madrid Institute for Advanced Study](https://www.madrid-ias.eu/index.php?id=3892&L=0%20) 
-in Spain in spring 2022 with funding through the François Chevalier Fellowship program. 
-
+in Spain in spring 2022 with funding through the François Chevalier Fellowship program.  
+  
 Using large random samples of young adults ages 24 to 30 in Spain and the United States, I examine socioeconomic mobility in each country 
 and how vocational education options may enhance or detract from such mobility. In Spain, the socioeconomic status of young adults is less 
 dependent on that of their parents than in the U.S., but educational attainment is strongly related to family background in both countries. 
 What differ are educational returns. In Spain, educational attainment strongly predicts job satisfaction, but in the U.S., it predicts 
 employment and earnings. Yet, if the distribution of average adult skills by education level in the U.S. matched that of Spain, inequality 
 by education level in the U.S. would be roughly halved, all else remaining equal. Regarding the role of vocational education, young adults in 
-Spain with non-tertiary vocational credentials show an employment advantage that does not translate to higher earnings.
-
+Spain with non-tertiary vocational credentials show an employment advantage that does not translate to higher earnings.  
+  
 [Diapositivas en español](https://www.dropbox.com/s/duzf2q20fwq15z9/sumstat_diapositivas.pdf?dl=0){: .btn--research} 
 [Slides in English](https://www.dropbox.com/s/0i5qec3bkzil6j3/sumstat_diapositivas_ing2.pdf?dl=0){: .btn--research} 
 [Preprint Working Paper](https://www.dropbox.com/s/rh12kr86z7xjfgn/sumstat_articulo_exhibend_november2022.pdf?dl=0){: .btn--research}
@@ -51,16 +51,18 @@ Spain with non-tertiary vocational credentials show an employment advantage that
 
 ## Information Disparities En Route to College and Career  
 
-Steele, J. L. (2021). Unpacking variation in college effectiveness: An instrumental variables approach. (Working Paper.) 
+Steele, J. L. (2021). Unpacking variation in college effectiveness: An instrumental variables approach. *Education Economics.* doi: 10.1080/09645292.2023.2265594. 
 
-The question of why postsecondary institutions produce different labor market outcomes is difficult to answer due to unobserved student 
-characteristics that drive institutional choice as well as earnings. I leverage students' geographic proximity to three types of U.S. postsecondary 
-institutions---competitive, earnings-enhancing, and Historically Black Colleges and Universities. Using a nationally representative random sample, 
-I estimate attainment and earnings effects of first attending each institution type. Attending an earnings-enhancing institution predicts higher wages,
-whereas underrepresented students' attendance at an HBCU predicts lower wages. Initial attendance at all three focal types predicts higher rates of 
-bachelor's degree completion and postbaccalaureate pursuit.
-
-[Working Paper](/files/draft_v7.pdf){: .btn--research}  
+The question of why postsecondary institutions produce different labor market outcomes is difficult to answer due
+to unobserved student characteristics. Here, I leverage students' geographic proximity to three classifications of 
+postsecondary institutions---earnings-enhancing, competitive, and Historically Black Colleges and Universities (HBCUs). 
+Using a nationally representative sample, I estimate attainment and earnings effects of first attending each type. 
+Attending an institution classified as earnings-enhancing increases humanities credit completion, degree attainment, 
+and early-career wages. Among underrepresented students, living closest to an HBCU strongly predicts HBCU enrollment. 
+This yields higher STEM credit completion but lower early-career wages, suggesting possible labor market bias.  
+  
+[Article](https://www.tandfonline.com/eprint/IY4NXGIEYC9HFAT9D2TT/full?target=10.1080/09645292.2023.2265594){: .btn--research}
+[Preprint](/files/draft_v8_w_coverpg.pdf){: .btn--research}  
 
 
 ## Postbaccalaureate Trajectories of Military Veterans in the Civilian Labor Market
