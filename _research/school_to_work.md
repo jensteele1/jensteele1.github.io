@@ -51,7 +51,7 @@ Spain with non-tertiary vocational credentials show an employment advantage that
 
 ## Information Disparities En Route to College and Career  
 
-Steele, J. L. (2021). Unpacking variation in college effectiveness: An instrumental variables approach. *Education Economics.* doi: 10.1080/09645292.2023.2265594. 
+Steele, J. L. (2023). Which college types increase earnings? Estimates from geographic proximity. *Education Economics.* doi: 10.1080/09645292.2023.2265594. 
 
 The question of why postsecondary institutions produce different labor market outcomes is difficult to answer due
 to unobserved student characteristics. Here, I leverage students' geographic proximity to three classifications of 
