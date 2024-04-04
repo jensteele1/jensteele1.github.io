@@ -5,7 +5,7 @@ permalink: /opinion/
 author_profile: true
 ---
   
-(2023, Oct. 6)  [Why AI may be like a horror movie for workers.](https://www.fastcompany.com/90962123/why-ai-may-be-like-a-horror-movie-for-workers-according-to-an-education-professor) *Fast Company*  
+(2023, Oct. 6)  [Why AI may be like a horror movie for workers.](https://www.fastcompany.com/90962123/why-ai-may-be-like-a-horror-movie-for-workers-according-to-an-education-professor) *Fast Company.*  
   
 (2023, Jul. 20) [Don't ban ChatGPT: Teach students to do what it can't do.](https://thehill.com/opinion/technology/4105892-dont-ban-chatgpt-teach-students-to-do-what-it-cant-do/) *The Hill.*
   
@@ -15,7 +15,7 @@ author_profile: true
   
 (2020, Mar. 16) [The mail: Experimental methods.](https://www.newyorker.com/magazine/2020/03/16/letters-from-the-march-16-2020-issue) *The New Yorker.*  
   
-(2019, Aug. 20) [Opinion: Free college is likely to provide an economic boost – for middle-class families more than poor students.](https://hechingerreport.org/opinion-access-to-free-tuition/) *The Hechinger Report.*  
+(2019, Aug. 20) [Free college is likely to provide an economic boost for middle-class families more than poor students.](https://hechingerreport.org/opinion-access-to-free-tuition/) *The Hechinger Report.*  
   
 (2019, June 17) [How countries make higher ed affordable: What the data show.](https://www.edsurge.com/news/2019-06-17-how-countries-make-higher-ed-affordable-what-the-data-shows) *EdSurge.*  
   
