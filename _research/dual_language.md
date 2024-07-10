@@ -74,7 +74,7 @@ using these methods with caution.
 **Funder:** Institute of Education Sciences, Research Practice Partnership Grant #R305H170005
 **Years:** 2017-2019
 
-Steele, J. L., Watzinger-Tharp, J., Slater, R. O., Roberts, G., & Bowman, K. Achievement effects of dual language immersion in one-way and two-way programs: Evidence from a state scale-up in Utah. (Working Paper.) Washington, DC: American University and American Councils for International Education.
+Steele, J. L., Watzinger-Tharp, J., Slater, R. O., Roberts, G., & Bowman, K. (2024). Achievement effects of dual language immersion in one-way and two-way programs: Evidence from a state scale-up in Utah. Forthcoming in *The B.E. Journal of Economic Analysis and Policy.*
 
 The rising U.S. demand for dual-language immersion (DLI) programs, which offer core instruction in two languages from early grands onward, 
 has raised questions about program design and access. We leverage the rapid expansion of DLI schools across Utah to estimate effects of 
@@ -83,4 +83,4 @@ the former (one-way) and those comprising one-to-two thirds of the latter (two-w
 intent-to-treat estimates in one-way programs are largely null, but those in two-way programs reach 0.10-0.11 standard deviations in math 
 and English and show higher EL reclassification rates by grade 5. Estimates suggest an advantage of cultural adjacency in program design.
 
-[Working Paper](/files/Utah_2023April23.pdf){: .btn--research}  
+[Preprint](/files/Utah_WP_2024_PREPRINT.pdf){: .btn--research}  
