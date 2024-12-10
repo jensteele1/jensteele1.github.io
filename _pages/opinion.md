@@ -4,7 +4,8 @@ title: "Opinions and Blogs"
 permalink: /opinion/
 author_profile: true
 ---
-  
+(2024, Sep. 6)  [J.D. Vance knows better.](https://www.salon.com/2024/09/06/jd-vance-knows-better/) *Salon Magazine.*  
+
 (2023, Oct. 6)  [Why AI may be like a horror movie for workers.](https://www.fastcompany.com/90962123/why-ai-may-be-like-a-horror-movie-for-workers-according-to-an-education-professor) *Fast Company.*  
   
 (2023, Jul. 20) [Don't ban ChatGPT: Teach students to do what it can't do.](https://thehill.com/opinion/technology/4105892-dont-ban-chatgpt-teach-students-to-do-what-it-cant-do/) *The Hill.*
