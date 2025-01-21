@@ -31,7 +31,7 @@ Steele, J. L. (2023). To GPT or not GPT: Empowering our students to learn with A
   
 ## International Variation in Paths to the Labor Market
 
-Steele., J. L. (In press in 2023). Education and opportunity in Spain and the U.S.: Evidence from youth labor market entry. *International Journal of Education Economics and Development.* doi: 10.1504/IJEED.2024.10057537
+Steele., J. L. (2024). Education and opportunity in Spain and the U.S.: Evidence from youth labor market entry. *International Journal of Education Economics and Development.* doi: 10.1504/IJEED.2024.10057537
 
 This work was undertaken at the [Madrid Institute for Advanced Study](https://www.madrid-ias.eu/index.php?id=3892&L=0%20) 
 in Spain in spring 2022 with funding through the François Chevalier Fellowship program.  
