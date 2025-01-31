@@ -22,7 +22,7 @@ My 2023 work on Artificial Intelligence (AI) examines how AI is likely to affect
 ## Artificial Intelligence: Implications for Education and Equity  
   
 Steele, J. L. (2024). How will AI affect students' employability? Implications for equity in education (Working Paper in Progress){: .btn--research}
-[Working Paper](/files/Steele_AI_Jobs_2024Nov.pdf){: .btn--research} 
+[Working Paper](/files/Steele-AIJobs-2024Nov.pdf){: .btn--research} 
   
 Steele, J. L. (2023). To GPT or not GPT: Empowering our students to learn with AI. *Computers & Education: Artificial Intelligence, 5.* 
 [Full text article](https://doi.org/https://doi.org/10.1016/j.caeai.2023.100160){: .btn--research}
