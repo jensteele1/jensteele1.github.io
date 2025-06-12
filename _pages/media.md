@@ -52,7 +52,7 @@ Study: Dual education programs improve students’ test scores. Fox News intervi
   
 
 [Link to video.](http://www.wisn.com/news/south-east-wisconsin/One-millionth-veteran-receives-GI-Bill-benefits/22907722)  
-One millionth veteran receives GI Bill benefits, Milwaukee Channel 2 interview with Hallie Jackson, Nov. 11, 2013.
+One millionth veteran receives GI Bill benefits, Milwaukee Channel 12 interview with NBC's Hallie Jackson, Nov. 11, 2013.
   
 
 
@@ -63,6 +63,6 @@ One millionth veteran receives GI Bill benefits, Milwaukee Channel 2 interview w
 Hogan’s back-to-school order means a time crunch for some Md. Districts. WTOP News Radio interview with Jack Moore, Sept. 1, 2016.
   
 
-[Link to audio and transcript.](http://www.marketplace.org/ topics/economy/post-911-gi-bill-means-new-greatest-generation)  
+[Link to audio and transcript.](http://www.marketplace.org/topics/economy/post-911-gi-bill-means-new-greatest-generation)  
 Post-9/11 GI Bill means a new Greatest Generation, Marketplace radio interview with Mark Garrison, American Public Media, Sept. 26, 2013.
   

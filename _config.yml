@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : "https://profiles.impactstory.org/u/0000-0002-5014-6345"
+  impactstory      : # https://profiles.impactstory.org/u/0000-0002-5014-6345
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/jennifer-steele-70976340/"
   orcid            : "https://orcid.org/0000-0002-5014-6345"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@jensteeledc"
   wikipedia        :
 
 
