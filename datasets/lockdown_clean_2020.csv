@@ -1,0 +1,51 @@
+state,governor,start,end,name,lstart,lend,locklen
+Alabama,R,April 4 2020, April 30 2020,Suspend certain public gatherings,04apr2020,30apr2020,26
+Alaska,R,March 28 2020, April 27 2020,Shelter-in-place,28mar2020,27apr2020,30
+Arizona,R,March 31 2020, May 15 2020,"Stay home, stay healthy, stay connected",31mar2020,15may2020,45
+Arkansas,R,,,N/A,,,0
+California,D,March 19 2020, December 3 2020,Shelter-in-place,19mar2020,03dec2020,259
+Colorado,D,March 26 2020, April 26 2020,Stay-at-home,26mar2020,26apr2020,31
+Connecticut,D,March 23 2020, May 20 2020,"Stay Safe, Stay Home",23mar2020,20may2020,58
+Delaware,D,March 24 2020, May 31 2020,Stay-at-Home,24mar2020,31may2020,68
+Florida,R,April 2 2020, May 4 2020,Stay-at-home,02apr2020,04may2020,32
+Georgia,R,April 3 2020, April 30 2020,Shelter-in-place,03apr2020,30apr2020,27
+Hawaii,D,March 25 2020, May 31 2020,Stay-at-home,25mar2020,31may2020,67
+Idaho,R,March 25 2020, April 30 2020,Stay home,25mar2020,30apr2020,36
+Illinois,D,March 21 2020, May 29 2020,Stay-at-Home,21mar2020,29may2020,69
+Indiana,R,March 24 2020, May 1 2020,Stay-at-home,24mar2020,01may2020,38
+Iowa,R,,,N/A,,,0
+Kansas,D,March 30 2020, May 3 2020,Stay home,30mar2020,03may2020,34
+Kentucky,D,March 26 2020, June 29 2020,Stay healthy at home,26mar2020,29jun2020,95
+Louisiana,D,March 23 2020, May 15 2020,Stay-at-Home,23mar2020,15may2020,53
+Maine,D,April 2 2020, May 31 2020,Stay-at-home,02apr2020,31may2020,59
+Maryland,R,March 30 2020, May 15 2020,Stay-at-home,30mar2020,15may2020,46
+Massachusetts,R,March 24 2020, May 18 2020,Stay-at-home,24mar2020,18may2020,55
+Michigan,D,March 24 2020, June 1 2020,"Stay Home, Stay Safe",24mar2020,01jun2020,69
+Minnesota,D,March 27 2020, May 17 2020,Stay-at-home,27mar2020,17may2020,51
+Mississippi,R,April 3 2020, April 27 2020,Shelter-in-place,03apr2020,27apr2020,24
+Missouri,R,April 6 2020, May 3 2020,Stay Home Missouri,06apr2020,03may2020,27
+Montana,D,March 28 2020, April 26 2020,Stay-at-home,28mar2020,26apr2020,29
+Nebraska,R,,,N/A,,,0
+Nevada,D,April 1 2020, May 15 2020,Stay-at-home,01apr2020,15may2020,44
+New Hampshire,R,March 27 2020, June 15 2020,Stay-at-home 2.0,27mar2020,15jun2020,80
+New Jersey,D,March 21 2020, June 9 2020,Stay-at-home,21mar2020,09jun2020,80
+New Mexico,D,March 24 2020, November 30 2020,Stay-at-home,24mar2020,30nov2020,251
+New York,D,March 20 2020, June 27 2020,New York State on PAUSE,20mar2020,27jun2020,99
+North Carolina,D,March 30 2020, May 22 2020,Stay-at-home,30mar2020,22may2020,53
+North Dakota,R,,,N/A,,,0
+Ohio,R,March 23 2020, May 19 2020,Stay-at-home,23mar2020,19may2020,57
+Oklahoma,R,April 1 2020, May 6 2020,Safer at home,01apr2020,06may2020,35
+Oregon,D,March 23 2020, June 19 2020,Stay-at-home,23mar2020,19jun2020,88
+Pennsylvania,D,April 1 2020, June 4 2020,Stay-at-home,01apr2020,04jun2020,64
+Rhode Island,D,March 28 2020, May 8 2020,Stay-at-home,28mar2020,08may2020,41
+South Carolina,R,April 7 2020, May 4 2020,Home or work,07apr2020,04may2020,27
+South Dakota,R,,,N/A,,,0
+Tennessee,R,March 31 2020, April 30 2020,Safer at home,31mar2020,30apr2020,30
+Texas,R,April 2 2020, April 30 2020,Statewide essential services and activities protocols,02apr2020,30apr2020,28
+Utah,R,,,N/A,,,0
+Vermont,R,March 24 2020, May 15 2020,Stay-at-home,24mar2020,15may2020,52
+Virginia,D,March 30 2020, May 29 2020,Stay-at-home,30mar2020,29may2020,60
+Washington,D,March 24 2020, May 31 2020,Stay-at-home,24mar2020,31may2020,68
+West Virginia,R,March 24 2020, May 4 2020,Stay-at-home,24mar2020,04may2020,41
+Wisconsin,D,March 25 2020, May 13 2020,Safer at Home,25mar2020,13may2020,49
+Wyoming,R,,,N/A,,,0
