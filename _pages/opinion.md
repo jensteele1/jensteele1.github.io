@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "Opinions and Blogs"
+title: "News and Opinion"
 permalink: /opinion/
 author_profile: true
 ---
+(2025, Nov. 3) [Trump is changing student loan forgiveness rules – barring some public workers from getting relief, but resuming it for others.] (https://theconversation.com/trump-is-changing-student-loan-forgiveness-rules-barring-some-public-workers-from-getting-relief-but-resuming-it-for-others-268351) *The Conversation.* 
+
+(2025, Sep. 24) [Trump isn’t cutting Pell Grants, after all − but other changes could complicate financial aid for some students.] (https://theconversation.com/trump-isnt-cutting-pell-grants-after-all-but-other-changes-could-complicate-financial-aid-for-some-students-265136) *The Conversation.* 
+
+(2025, Aug. 15) [Kids need soft skills in the age of AI, but what does this mean for schools?] (https://theconversation.com/kids-need-soft-skills-in-the-age-of-ai-but-what-does-this-mean-for-schools-261518). *The Conversation.* 
+
 (2024, Sep. 6)  [J.D. Vance knows better.](https://www.salon.com/2024/09/06/jd-vance-knows-better/) *Salon Magazine.*  
 
 (2023, Oct. 6)  [Why AI may be like a horror movie for workers.](https://www.fastcompany.com/90962123/why-ai-may-be-like-a-horror-movie-for-workers-according-to-an-education-professor) *Fast Company.*  
