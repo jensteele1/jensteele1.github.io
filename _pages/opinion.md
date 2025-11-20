@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "News and Opinion"
+title: "Opinion and Explainers"
 permalink: /opinion/
 author_profile: true
 ---
