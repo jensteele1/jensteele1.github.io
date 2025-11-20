@@ -27,7 +27,7 @@ Students across the nation continue to struggle from COVID-19 learning loss. The
 Educators want a post-pandemic reset. The National Desk with Geoff Harris, Aug. 7, 2024.
   
 
-[![cgtn2023aug18](/images/cgtn_2025aug18.png){:height="60%" width="60%"}](https://www.youtube.com/watch?v=H91Nehd7Q_Q)  
+[![cgtn2023aug18](/images/cgtn_2023aug18.png){:height="60%" width="60%"}](https://www.youtube.com/watch?v=H91Nehd7Q_Q)  
 Global business: School supplies costs reach $41.5 billion. CGTN interview with Karina Mitchell, Aug. 18, 2023.
   
 
