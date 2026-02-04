@@ -43,6 +43,7 @@ employment and earnings. Yet, if the distribution of average adult skills by edu
 by education level in the U.S. would be roughly halved, all else remaining equal. Regarding the role of vocational education, young adults in 
 Spain with non-tertiary vocational credentials show an employment advantage that does not translate to higher earnings.  
   
+[Research visualization](https://jensteele1-github-io-git-main-jennifer-steeles-projects.vercel.app/){: .btn--research} 
 [Diapositivas en español](https://www.dropbox.com/s/duzf2q20fwq15z9/sumstat_diapositivas.pdf?dl=0){: .btn--research} 
 [Slides in English](https://www.dropbox.com/s/0i5qec3bkzil6j3/sumstat_diapositivas_ing2.pdf?dl=0){: .btn--research} 
 [Preprint Working Paper](https://www.dropbox.com/s/rh12kr86z7xjfgn/sumstat_articulo_exhibend_november2022.pdf?dl=0){: .btn--research}
