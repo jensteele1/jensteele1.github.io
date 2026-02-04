@@ -1,0 +1,6 @@
+
+{
+  "name": "SumStat Visualizer",
+  "description": "A research assistant and visualization dashboard for the SumStat paper, enabling automated extraction and interactive analysis of summary statistics from research articles.",
+  "requestFramePermissions": []
+}
