@@ -19,9 +19,12 @@ between young adults' family background and labor market outcomes in Spain versu
 My 2023 work on Artificial Intelligence (AI) examines how AI is likely to affect the future workforce, and what this means for how we teach AI in K-12 and postsecondary education.
     
   
-## Artificial Intelligence: Implications for Education and Equity  
+## Artificial Intelligence: Implications for Education and the Workforce  
   
-Steele, J. L. (2024). How will AI affect students' employability? Implications for equity in education (Working Paper in Progress){: .btn--research}
+Steele, J. L. (2026). Helping people choose careers in the age of AI (Working Paper){: .btn--research}
+[Slides](/files/Steele_AIworkdeck_2026.pdf){: .btn--research}  
+ 
+Steele, J. L. (2024). How will AI affect students' employability? Implications for equity in education (Working Paper){: .btn--research}
 [Working Paper](/files/Steele-AIJobs-2024Nov.pdf){: .btn--research} 
   
 Steele, J. L. (2023). To GPT or not GPT: Empowering our students to learn with AI. *Computers & Education: Artificial Intelligence, 5.* 
