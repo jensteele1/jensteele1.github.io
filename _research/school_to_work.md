@@ -21,8 +21,9 @@ My 2023 work on Artificial Intelligence (AI) examines how AI is likely to affect
   
 ## Artificial Intelligence: Implications for Education and the Workforce  
   
-Steele, J. L. (2026). Helping people choose careers in the age of AI (Working Paper){: .btn--research}
+Steele, J. L. (2026). Helping people choose careers in the age of AI (Working Paper)
 [Slides](/files/Steele_AIworkdeck_2026.pdf){: .btn--research}  
+[The Real Guide Pitch Deck](/files/Steele_TRAC_TheRealGuide2026.pdf){: .btn--research}  
  
 Steele, J. L. (2024). How will AI affect students' employability? Implications for equity in education (Working Paper){: .btn--research}
 [Working Paper](/files/Steele-AIJobs-2024Nov.pdf){: .btn--research} 
