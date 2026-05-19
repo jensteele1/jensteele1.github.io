@@ -7,6 +7,9 @@ author_profile: true
 
 ## Television Interviews
 
+[![WUSA9_2026may18](/images/WUSA9_2026may18.png){:height="60% width="60%"}](https://youtu.be/WuHlLqPE5xA?si=nPT4Sxz_bsurm_7h) Schools face budget cuts: Expert explains impact for students and employees of DMV public schools. WUSA9 Morning News interview with Simone De Alba, May 18, 2026.  
+  
+
 [![coolschools2025nov13](/images/coolschools_2025nov13.png){:height="60%" width="60%"}](https://www.youtube.com/watch?v=ajnizf0Jvt4)  
 AI in Schools, Cool Schools with Bob Driscoll (25 min.), WSYR-9, Nov. 13, 2025. 
   
