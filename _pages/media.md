@@ -7,6 +7,10 @@ author_profile: true
 
 ## Television Interviews
 
+[![WUSA9_2026jun11](/images/WUSA9_2026jun11.png){:height="60%" width="60%"}](https://youtu.be/g6Mx_De80wc?si=857AnQUUW9vLwvFb)  
+School board considers limiting technology in the classroom for Fairfax students. WUSA9 interview with Sarah Beth Guevara, June 11, 2026.  
+
+
 [![WUSA9_2026may18](/images/WUSA9_2026may18_2.png){:height=60% width="60%"}](https://youtu.be/WuHlLqPE5xA?si=nPT4Sxz_bsurm_7h)  
 Schools face budget cuts: Expert explains impact for students and employees of DMV public schools. WUSA9 Morning News interview with Simone De Alba, May 18, 2026.  
   
