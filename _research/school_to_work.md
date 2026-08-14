@@ -21,6 +21,9 @@ My 2023 work on Artificial Intelligence (AI) examines how AI is likely to affect
   
 ## Artificial Intelligence: Implications for Education and the Workforce  
   
+Steele, J. L. (2026). Rumpelstiltskin, Rembrandt, and Resilience in the Artificial Intelligence Age. (Public lecture.)  
+[Slides] (https://www.dropbox.com/scl/fi/d1u77wvxe1uouuje78jn2/Rumpelstiltskin_Rembrandt_Resilience_2026Aug.pptx?rlkey=d6hdts396k4uiyija6fn19c79&st=yomj7dv8&dl=0){: .btn--research}  
+
 Steele, J. L. (2026). Helping people choose careers in the age of AI (Working Paper)
 [Slides](/files/ai_work_slides_2026v4.pdf){: .btn--research}  
 [The Real Guide Pitch Deck](/files/Steele_TRAC_TheRealGuide2026.pdf){: .btn--research}
